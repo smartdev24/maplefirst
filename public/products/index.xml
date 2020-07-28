@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Maple First Inc.</title>
+    <link>https://maplefirstinc.com/products/</link>
+    <description>Recent content in Products on Maple First Inc.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 Jul 2020 12:09:35 -0500</lastBuildDate>
+    
+	<atom:link href="https://maplefirstinc.com/products/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Our Products</title>
+      <link>https://maplefirstinc.com/products/our-products/</link>
+      <pubDate>Tue, 28 Jul 2020 12:09:35 -0500</pubDate>
+      
+      <guid>https://maplefirstinc.com/products/our-products/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
