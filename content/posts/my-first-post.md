@@ -1,7 +1,7 @@
 ---
 title: "About us"
 date: 2020-07-26T16:03:11-05:00
-draft: true
+draft: false
 show_reading_time: true
 ---
 
